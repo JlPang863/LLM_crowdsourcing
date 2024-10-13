@@ -26,3 +26,4 @@ raw_data/*
 
 ###
 # git rm -r --cached .
+# git remote add origin git@github.com:JlPang863/LLM_crowdsourcing.git
