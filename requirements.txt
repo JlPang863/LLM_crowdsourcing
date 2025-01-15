@@ -5,3 +5,6 @@ datasets
 fire
 accelerate
 nvitop
+bitsandbytes
+protobuf
+sentencepiece
